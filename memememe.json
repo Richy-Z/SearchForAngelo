@@ -1,0 +1,374 @@
+{
+	"previousPageCursor": null,
+	"nextPageCursor": null,
+	"data": [
+		{
+			"id": 5576690030,
+			"name": "The Journey",
+			"description": "The big and strong Robloxian in their mighty glory tries to chase you to your death..\n\n..What will you do to combat them?\nThere might be an escape.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 16140888617,
+				"type": "Place"
+			},
+			"created": "2024-01-27T21:10:22.573Z",
+			"updated": "2024-01-28T13:26:21.96Z",
+			"placeVisits": 1
+		},
+		{
+			"id": 3261429174,
+			"name": "The Modern Elevator",
+			"description": "Welcome to The Modern Elevator, where you traverse through different levels and floors to experience paranormal scenarios!\n\n( ⭐️✨ ) PREMIUM PLAYERS: Premium players now get 1.5x Credits and a cool rank gradient as long as they play the game! 💸💸\n\n( 🧘🧘 ) More credits weekend: You can gain more credits during Saturdays and Sundays! (Stackable)\n\n[*] UPDATES\n- Removed the halloween update! 🎃👻\n\nJOIN THE DUCK CLAN: Merchandise is available in the shop on the main floor! 🦆🦆",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 8551445294,
+				"type": "Place"
+			},
+			"created": "2022-01-14T23:39:27.743Z",
+			"updated": "2024-01-07T15:36:08.72Z",
+			"placeVisits": 435
+		},
+		{
+			"id": 3191270503,
+			"name": "My Room.",
+			"description": "Pretty much an exact replica of my room irl.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 8328358920,
+				"type": "Place"
+			},
+			"created": "2021-12-23T15:13:40.33Z",
+			"updated": "2021-12-23T15:15:16.923Z",
+			"placeVisits": 43
+		},
+		{
+			"id": 3166268621,
+			"name": "Normal Jenga",
+			"description": "Theres a lack of actual Jenga games on Roblox, so I just quickly bashed this up.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 8253371928,
+				"type": "Place"
+			},
+			"created": "2021-12-14T14:14:25.02Z",
+			"updated": "2023-09-24T17:48:23.227Z",
+			"placeVisits": 21
+		},
+		{
+			"id": 2937200771,
+			"name": "[BETA] Squid Game: Remade",
+			"description": "Traverse through the maps and complete the minigames without dying to receive your huge amount of money.\n\nThis game is a re-enactment of the Netflix Show \"Squid Game\".",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 7558632676,
+				"type": "Place"
+			},
+			"created": "2021-09-25T10:11:06.27Z",
+			"updated": "2021-09-29T17:36:43.053Z",
+			"placeVisits": 33
+		},
+		{
+			"id": 2888521116,
+			"name": "Atlanta: Remade (v2.0.0)",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 7412023868,
+				"type": "Place"
+			},
+			"created": "2021-09-05T14:50:20.417Z",
+			"updated": "2021-09-10T23:35:55.263Z",
+			"placeVisits": 15
+		},
+		{
+			"id": 2859399699,
+			"name": "Apple Store Regent Street",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 7328416046,
+				"type": "Place"
+			},
+			"created": "2021-08-25T15:57:05.567Z",
+			"updated": "2021-08-25T18:11:35.893Z",
+			"placeVisits": 10
+		},
+		{
+			"id": 2806334773,
+			"name": "Filming Place",
+			"description": "Record ####### that Richy has already made!",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 7212821153,
+				"type": "Place"
+			},
+			"created": "2021-08-06T15:30:18.91Z",
+			"updated": "2021-08-06T16:01:07.727Z",
+			"placeVisits": 5
+		},
+		{
+			"id": 2693948448,
+			"name": "Betrayal.",
+			"description": "Will you survive the night with your friends as one person betrays your group and tries to hunt you?\r\nWell, theres only one way to find out...\r\n\r\nCurrently testing stuff.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 7009214245,
+				"type": "Place"
+			},
+			"created": "2021-06-26T16:43:52.817Z",
+			"updated": "2021-11-07T07:00:15.317Z",
+			"placeVisits": 5
+		},
+		{
+			"id": 2683390460,
+			"name": "Survive the Tragedy!",
+			"description": "Run around in circles as your life is about to end - In Survive the Tragedy, experience multiple disaster in your short robloxian life...",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6990172839,
+				"type": "Place"
+			},
+			"created": "2021-06-22T20:24:13.627Z",
+			"updated": "2021-07-14T15:12:05.773Z",
+			"placeVisits": 25
+		},
+		{
+			"id": 2668298156,
+			"name": "mars",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6962198135,
+				"type": "Place"
+			},
+			"created": "2021-06-16T15:40:32.273Z",
+			"updated": "2024-06-03T19:43:04.933Z",
+			"placeVisits": 0
+		},
+		{
+			"id": 2608417999,
+			"name": "Statix: Audio Visualiser",
+			"description": "Statix: Audio Visualiser\r\n\r\nA simple game which allows you to play Roblox audios and do multiple things like manipulate the sound and look at cool visualisations.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6851766200,
+				"type": "Place"
+			},
+			"created": "2021-05-22T22:53:52.597Z",
+			"updated": "2021-05-23T18:21:23.573Z",
+			"placeVisits": 62
+		},
+		{
+			"id": 2603252404,
+			"name": "Balance It!",
+			"description": "All you have to do, is balance...\r\n\r\n...and don't fall off-\r\n\r\nThe main objective of this game is to really just have fun by balancing the platform and trying not to fall off.\r\nThis game is inspired by some random attraction I saw at a theme park or something, idk.\r\n\r\nYes, I am aware that the platform sometimes get stuck, I am trying to do something to battle with Roblox's physics.\r\n\r\n[ Quick Warning ]: Do not believe anyone who claims to be an admin, mod, or anything else. There is no admin in this game, and even I (the owner) don't have access to admin in this game.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6842180532,
+				"type": "Place"
+			},
+			"created": "2021-05-20T21:23:48.137Z",
+			"updated": "2021-05-20T21:56:06.2Z",
+			"placeVisits": 21
+		},
+		{
+			"id": 2572592096,
+			"name": "Atlanta",
+			"description": "[ CONTROLS ]\r\nHold the \"Left Control\" button to sprint.\r\nAim over a player's character in the game and then press the \"Left Mouse Button\" to shoot.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6782413641,
+				"type": "Place"
+			},
+			"created": "2021-05-07T20:33:04.01Z",
+			"updated": "2021-10-16T12:10:55.467Z",
+			"placeVisits": 279
+		},
+		{
+			"id": 2554934082,
+			"name": "Ro-Minigames (Dev Betas)",
+			"description": "Compete in minigames against other players to become the best of the best!\n\n[ ! ] Regarding player styles, R6 and R15. This game is based on the R6 player style but also support the R15 style. When you join with R15, your chracter will be automatically resized to be under the R6 maximum size.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6747909083,
+				"type": "Place"
+			},
+			"created": "2021-04-30T17:11:48.157Z",
+			"updated": "2021-04-30T17:16:34.807Z",
+			"placeVisits": 1
+		},
+		{
+			"id": 2478274198,
+			"name": "Crazy Towers",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6585229594,
+				"type": "Place"
+			},
+			"created": "2021-03-29T16:43:42.06Z",
+			"updated": "2021-04-02T19:38:11.95Z",
+			"placeVisits": 20
+		},
+		{
+			"id": 2403694389,
+			"name": "Music Lessons",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6447092153,
+				"type": "Place"
+			},
+			"created": "2021-02-26T13:59:53.413Z",
+			"updated": "2021-09-04T21:38:39.01Z",
+			"placeVisits": 87
+		},
+		{
+			"id": 2253478137,
+			"name": "cute audio maker",
+			"description": "this game makes any audio id slow, then reverb and rain is added :)",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6165083482,
+				"type": "Place"
+			},
+			"created": "2020-12-31T00:07:07.497Z",
+			"updated": "2021-05-21T21:56:58.473Z",
+			"placeVisits": 21
+		},
+		{
+			"id": 2247901489,
+			"name": "Ro-Minigames!",
+			"description": "Break your way through minigames to become the best of the best!\r\nGet coins every time you win a minigame, and use it to buy items from the shop.\r\nRo-Minigames is a game where players can either compete against each other or even help eachother in teams to win minigames!\r\n\r\nCurrently we have a selection of obby, fighting and speed minigames.\r\n\r\nPlease note:\r\nRo-Minigames is currently in alpha.\r\nType \"!bug\" in chat if you find a bug, and type \"!suggestion\" in chat if you have a suggestion. (You will be able to send a message to the developers via in-game services) [21/05/2021]: This service is now unavailable. Bug reports will not be sent.\r\n\r\n[UPDATE]: As of 21/05/2021, Ro-Minigames will no longer be worked on.",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6154412402,
+				"type": "Place"
+			},
+			"created": "2020-12-29T00:01:52.987Z",
+			"updated": "2022-08-27T23:03:31.587Z",
+			"placeVisits": 27
+		},
+		{
+			"id": 2222667666,
+			"name": "Space.",
+			"description": "Just sit and float through space.\r\nThat's it.\r\n\r\nThe game concept is simple.\r\n\r\nJust click play already.\r\n\r\nOh so you wanna continue reading this?\r\nSeriously just click play. It's the big green button on top of the description. (me)",
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6108521539,
+				"type": "Place"
+			},
+			"created": "2020-12-19T13:49:02.35Z",
+			"updated": "2023-09-10T19:00:01.047Z",
+			"placeVisits": 24
+		},
+		{
+			"id": 2195026959,
+			"name": "Floppy: 2",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 6056268164,
+				"type": "Place"
+			},
+			"created": "2020-12-07T12:37:31.11Z",
+			"updated": "2021-12-05T17:34:17.267Z",
+			"placeVisits": 70
+		},
+		{
+			"id": 2081672113,
+			"name": "kidnap van",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 5845324686,
+				"type": "Place"
+			},
+			"created": "2020-10-18T17:28:43.943Z",
+			"updated": "2021-07-21T12:03:49.42Z",
+			"placeVisits": 394
+		},
+		{
+			"id": 544828,
+			"name": "iirzd's Place",
+			"description": null,
+			"creator": {
+				"id": 811510,
+				"type": "User"
+			},
+			"rootPlace": {
+				"id": 3469474,
+				"type": "Place"
+			},
+			"created": "2013-10-31T22:51:14.547Z",
+			"updated": "2023-05-02T19:52:07.64Z",
+			"placeVisits": 6
+		}
+	]
+}
