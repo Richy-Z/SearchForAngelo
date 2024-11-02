@@ -1,3 +1,9 @@
+> [!NOTE]  
+> This repository has been archived as the person who we were looking for has been found. However, the code base doesn't reflect this because I did not push and commit the repository after we found him.
+> Any code which currently exists in this repository is messy, made in 5 minutes and therefore unorganised and it will look silly.
+> Further search stages haven't been published and there is no plan to do so - all files related to this search have already been removed locally.
+
+
 # 🔎 The Search for Angelo
 
 **The Search for Angelo** is a small project aimed at finding an old friend called "Angelo" who suddenly disappeared from his old account on Roblox.
